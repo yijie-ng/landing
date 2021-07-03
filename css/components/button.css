@@ -1,0 +1,17 @@
+.btn-red {
+  background-color: #d62d24;
+  padding: 15px 20px;
+  border-radius: 4px;
+  color: #f2e638;
+  font-weight: bold;
+  font-family: 'Roboto', sans-serif;
+}
+
+a.btn-red {
+  text-decoration: none;
+}
+a.btn-red:hover {
+  color: #d62d24;
+  background-color: #f2e638;
+  transition: background-color 0.3s ease;
+}
